@@ -1,46 +1,93 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+![Banner](https://github.com/juangodoygrando/juangodoygrando/blob/main/Banner%20para%20Linkedin%20Licenciada%20Marketing%20Minimalista%20Beige.png?raw=true)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-perfil-linkedin/)](https://www.linkedin.com/in/tu-perfil-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/tu-usuario-twitter/)](https://twitter.com/tu-usuario-twitter/)
-[![GitHub](https://img.shields.io/github/followers/tu-usuario-github?label=Follow&style=social)](https://github.com/tu-usuario-github/)
 
-Soy un/a desarrollador/a con pasión por la tecnología y el desarrollo web. Me encanta trabajar en proyectos que ayuden a las personas a mejorar su vida a través de soluciones tecnológicas.
+
+# 👋 ¡Hola! Soy Juan Ignacio Godoy Grando 
+
+<!-- Badges de redes sociales -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil-linkedin/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tu-usuario-twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/tu-usuario-github">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+  </a>
+</p>
+
+Soy un/a **desarrollador/a web** apasionado/a por la tecnología y la innovación. Me especializo en el desarrollo de soluciones creativas que impactan la vida de las personas. 
 
 ---
 
-## 🚀 Tecnologías que manejo:
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, MongoDB
-- **Herramientas:** Git, GitHub, VSCode
+<!-- Sección "Sobre mí" con imagen a la izquierda -->
+<p align="left">
+  <img src="https://your-image-url.com/profile-pic.png" width="150" align="left" />
+  
+  ### 👨‍💻 Sobre mí:
+  
+  - 💼 Actualmente trabajo en [Tu Empresa]
+  - 🎓 Cursando #DesarrolloWeb y #Javascript en CoderHouse
+  - 🌱 Estoy aprendiendo #Git
+  - 🎯 Objetivo: Contribuir a proyectos de **código abierto**
+  - ⚡ Fun fact: Me encanta el mate y resolver, siempre resolver
+  
+</p>
 
 ---
 
-## 🏆 Mis estadísticas de GitHub:
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical)
+## 🚀 Habilidades Técnicas:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  //<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  //<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
 ---
 
 ## 🌟 Proyectos destacados:
-- [**Gestor de Finanzas Personales**](https://github.com/tu-usuario-github/proyecto-finanzas)
-- [**Página Web del Gimnasio**](https://github.com/tu-usuario-github/proyecto-gimnasio)
-- [**Simulador de Préstamos**](https://github.com/tu-usuario-github/simulador-prestamos)
+
+<p align="center">
+  <a href="https://github.com/tu-usuario-github/proyecto-finanzas">
+    <img src="https://your-image-url.com/finance-project-image.png" width="300" />
+  </a>
+  <a href="https://github.com/tu-usuario-github/proyecto-gimnasio">
+    <img src="https://your-image-url.com/gym-project-image.png" width="300" />
+  </a>
+</p>
+
+- **[Gestor de Finanzas Personales](https://github.com/tu-usuario-github/proyecto-finanzas)**: Un sistema para gestionar tus finanzas de forma eficiente y clara.
+- **[Página Web del Gimnasio](https://github.com/tu-usuario-github/proyecto-gimnasio)**: Diseño moderno y funcional para un gimnasio local.
 
 ---
 
-## 💬 Conecta conmigo:
+## 🏆 Estadísticas de GitHub:
 
-- LinkedIn: [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil-linkedin/)
-- Twitter: [tu-usuario-twitter](https://twitter.com/tu-usuario-twitter)
-- Email: tu-email@gmail.com
-
----
-
-### 📊 Mis lenguajes más utilizados:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=radical" />
+</p>
 
 ---
 
-## ✨ Objetivos personales:
-- Mejorar mis habilidades en **JavaScript** y **React**.
-- Contribuir a proyectos de **código abierto**.
-- Mantenerme al día con las últimas tecnologías.
+## 📫 Conecta conmigo:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario-twitter">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<a href="https://es.vecteezy.com/arte-vectorial/344502-banner-de-desarrollo-web-ordenador-con-ventana-un-ordenador-con-ventana-de-navegador-estudio-de-diferentes-lenguajes-de-programacion-ilustracion-vectorial-de-linea-plana">Banner de desarrollo web. Ordenador con ventana Un ordenador con ventana de navegador. Estudio de diferentes lenguajes de programación. Ilustración vectorial de línea plana. Vectores por Vecteezy</a>
