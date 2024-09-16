@@ -30,7 +30,7 @@ Soy un/a desarrollador/a con pasión por la tecnología y el desarrollo web. Me 
 
 ## 💬 Conecta conmigo:
 
-- LinkedIn: [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil-linkedin/)
+- LinkedIn: [Juan Ignacio Godoy Grando](https://www.linkedin.com/in/juanignacio-godoygrando/)
 - Email: juangodoygrando@gmail.com
 
 ---
