@@ -11,7 +11,7 @@ Soy un/a desarrollador/a con pasión por la tecnología y el desarrollo web. Me 
 ## 🚀 Tecnologías que manejo:
 - **Frontend:** HTML, CSS, JavaScript,
   
-- **Herramientas:** Git, GitHub, VSCode
+- **Herramientas:** Git, GitHub, VSCode, Boostrap
 
 ---
 
