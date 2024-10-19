@@ -8,7 +8,7 @@ Soy un/a desarrollador/a con pasión por la tecnología y el desarrollo web. Me 
 
 ---
 
-## 🚀 Tecnologías que manejo :
+## 🚀 Tecnologías que manejo:
 - **Frontend:** HTML, CSS, JavaScript,
   
 - **Herramientas:** Git, GitHub, VSCode, Boostrap
@@ -28,7 +28,7 @@ Soy un/a desarrollador/a con pasión por la tecnología y el desarrollo web. Me 
 
 ---
 
-## 💬 Conecta conmigo :
+## 💬 Conecta conmigo:
 
 - LinkedIn: [Juan Ignacio Godoy Grando](https://www.linkedin.com/in/juanignacio-godoygrando/)
 - Email: juangodoygrando@gmail.com
