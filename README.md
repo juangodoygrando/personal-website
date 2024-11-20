@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanignacio-godoygrando/)](https://www.linkedin.com/in/juanignacio-godoygrando/) [![GitHub](https://img.shields.io/github/followers/juangodoygrando?label=Follow&style=social)](https://github.com/juangodoygrando/)
 
-Soy un/a desarrollador/a con pasión por la tecnología y el desarrollo web. Me encanta trabajar en proyectos que ayuden a las personas a mejorar su vida a través de soluciones tecnológicas.
+Soy un/a desarrollador/a con pasión por la tecnología y el desarrollo web. Me encanta trabajar en proyectos que ayuden a las personas a mejorar su vida a través de soluciones 
 
 ---
 
