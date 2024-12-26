@@ -3,11 +3,6 @@
 
 # 👋 ¡Hola! Soy Juan Ignacio Godoy Grando
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanignacio-godoygrando/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangodoygrando@gmail.com)
-
-
-
 ## 💻 *Desarrollador Frontend enfocado en el diseño y desarrollo de experiencias digitales eficientes y atractivas.*
 
 **Combino creatividad y lógica para crear soluciones web que no solo funcionan, sino que destacan. Mi objetivo es utilizar la tecnología como una herramienta para resolver problemas reales y mejorar la vida de los usuarios.**  
@@ -53,8 +48,8 @@
 
 ## 💬 Conecta conmigo:
 
-- LinkedIn: [Juan Ignacio Godoy Grando](https://www.linkedin.com/in/juanignacio-godoygrando/)  
-- Email: juangodoygrando@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanignacio-godoygrando/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangodoygrando@gmail.com)
 
 ---
 
