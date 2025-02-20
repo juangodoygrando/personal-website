@@ -1,5 +1,4 @@
-![Banner-de-Linked-In-Tecnolog-a-Abstracto-Azul-y-Blanco.png](https://i.postimg.cc/wTK2Mwzn/Banner-de-Linked-In-Tecnolog-a-Abstracto-Azul-y-Blanco.png)
-
+[![Banner-de-Linked-In-Tecnolog-a-Abstracto-Azul-y-Blanco.png](https://i.postimg.cc/wTK2Mwzn/Banner-de-Linked-In-Tecnolog-a-Abstracto-Azul-y-Blanco.png)](https://postimg.cc/kDcKhFBy)
 
 # 👋 ¡Hola! Soy Juan Ignacio Godoy Grando
 
@@ -28,10 +27,6 @@
 
 ---
 
-## 🏆 Mis estadísticas de GitHub:
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juangodoygrando&show_icons=true&theme=radical)
-
----
 
 ## 🌟 Proyectos Destacados
 
