@@ -30,11 +30,13 @@
 
 ## 🌟 Proyectos Destacados
 
-- [**A&E Finance** - Gestor de Finanzas Personales](https://github.com/juangodoygrando/A-E-FINANCE)  
-    Plataforma para gestionar finanzas personales de forma eficiente. Permite simular préstamos, calcular cuotas y obtener información en tiempo real sobre las 10 criptomonedas más vendidas.
+
 
 - [**CoderGym** - Página Web del Gimnasio](https://github.com/juangodoygrando/CODERGYM)  
     Sitio web profesional y responsivo diseñado para gimnasios, destacando las tarifas, clases dirigidas e instalaciones.
+  
+- [**A&E Finance** - Gestor de Finanzas Personales](https://github.com/juangodoygrando/A-E-FINANCE)  
+    Plataforma para gestionar finanzas personales de forma eficiente. Permite simular préstamos, calcular cuotas y obtener información en tiempo real sobre las 10 criptomonedas más vendidas.
 
 - [**Movix** - E-commerce de Móviles](https://github.com/juangodoygrando/Movix-react-Js)  
     Tienda online para explorar y comprar dispositivos móviles, desarrollada con React.js y enfocada en la experiencia del usuario.
